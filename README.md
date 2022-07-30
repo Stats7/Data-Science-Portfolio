@@ -71,16 +71,21 @@ usually are very specific.
 ## Viewable Files
 ### Julia (2019)
 The 2019 Julia results, unfortunately having no documentation, are available
-as SVGs (Scalable Vector Graphics files).
+as SVGs (Scalable Vector Graphics files). They can be found in the respective
+directory ```01__julia-2019```. If necessary, they may be downloaded for the
+sole direct purpose of offline viewing.
 
 ### SQL and R (2022)
 The 2022 SQL and R results have been put into HTML documents made with RMarkdown.
-They can be view via direct links below:
+They can be viewed via direct links below:
 
 - [小さい料理店](https://htmlpreview.github.io/?https://github.com/Stats7/Data-Science-Portfolio/blob/main/02__sql-r-2022/chiisai-ryouriten_.nb.html)
 - [Chinookのデータベース](https://htmlpreview.github.io/?https://github.com/Stats7/Data-Science-Portfolio/blob/main/02__sql-r-2022/chinook_db.nb.html)
 - [Mockarooとの実験](https://htmlpreview.github.io/?https://github.com/Stats7/Data-Science-Portfolio/blob/main/02__sql-r-2022/person-data_mockaroo.nb.html)
 - [私立の刑事の会社](https://htmlpreview.github.io/?https://github.com/Stats7/Data-Science-Portfolio/blob/main/02__sql-r-2022/watakushiritsu-no-keiji-no-kaisha.nb.html
 )
+
+Alternatively, one could go into the respective directory (```02__sql-r-2022```)
+and follow the instructions.
 
 As mentioned, more demonstrations may be posted later.
