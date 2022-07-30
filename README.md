@@ -70,7 +70,7 @@ when necessary, I had to translate something I knew with Julia to R. When
 I search for information, knowing more or less what I want, my searches
 usually are very specific.
 
-### Viewable Files
+## Viewable Files
 The 2019 Julia results, unfortunately having no documentation, are available
 as SVGs (Scalable Vector Graphics files).
 
