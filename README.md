@@ -7,8 +7,6 @@ I have done using SQL and R in 2022.
 I might add more and more over time. For example, I hope to learn Shiny and add
 a small demonstration with it at some point.
 
-(The content itself will be uploaded when I think it is time to do so.)
-
 ## Purpose
 The primary purpose of this portfolio is for employers to see some of my works
 having to do with statistics, data analysis, and the like. It is not at all a
@@ -74,4 +72,4 @@ usually are very specific.
 The 2019 Julia results, unfortunately having no documentation, are available
 as SVGs (Scalable Vector Graphics files).
 
-The SQL and R results have been put into HTML documents made with RMarkdown.
+The 2022 SQL and R results have been put into HTML documents made with RMarkdown.
