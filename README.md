@@ -84,6 +84,7 @@ They can be viewed via direct links below:
 - [Mockarooとの実験](https://htmlpreview.github.io/?https://github.com/Stats7/Data-Science-Portfolio/blob/main/02__sql-r-2022/person-data_mockaroo.nb.html)
 - [私立の刑事の会社](https://htmlpreview.github.io/?https://github.com/Stats7/Data-Science-Portfolio/blob/main/02__sql-r-2022/watakushiritsu-no-keiji-no-kaisha.nb.html
 )
+- [データ準備について](https://htmlpreview.github.io/?https://github.com/Stats7/Data-Science-Portfolio/blob/main/02__sql-r-2022/data-wrangling-sql.nb.html)
 
 Alternatively, one could go into the respective directory (```02__sql-r-2022```)
 and follow the instructions.
